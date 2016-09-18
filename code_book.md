@@ -42,4 +42,4 @@ The attached R script (run_analysis.R) performs the following to clean up the da
 
     tgravityacc-mean-y
 
-    Finally, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as data_set_with_the_averages.txt where as before, the first column contains subject IDs, the second column contains activity names (see below), and then the averages for each of the attributes.
+    Finally, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. The result is saved as data_set_with_the_averages.txt where as before, the first column contains subject IDs, the second column contains activity names, and then the averages for each of the attributes.
